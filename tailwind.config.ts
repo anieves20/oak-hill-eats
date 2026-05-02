@@ -19,6 +19,13 @@ export default {
         ring: "hsl(var(--ring))",
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
+        ink: "hsl(var(--ink))",
+        paper: "hsl(var(--paper))",
+        cream: "hsl(var(--cream))",
+        mustard: "hsl(var(--mustard))",
+        "deli-red": "hsl(var(--deli-red))",
+        "deli-red-deep": "hsl(var(--deli-red-deep))",
+        olive: "hsl(var(--olive))",
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
